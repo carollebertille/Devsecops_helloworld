@@ -54,7 +54,6 @@
 ## Workflow
 CI/CD pipeleine, we have 4 environments(dev, qa, prepro,pro) and each environment have the pipeline 
 - In dev environment, we have multipipeline, I will use one pipeline
-![Screenshot (353)](https://github.com/carolledevops/Helloworld/assets/138341326/135317d6-57d2-4b5a-a134-1c9d7af84761)
 ### Explication
 ##### Development pipeline (when pull request merged to develop branch)
 
