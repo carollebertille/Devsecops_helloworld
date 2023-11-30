@@ -68,22 +68,6 @@ CI/CD pipeleine, we have 4 environments(dev, qa, prepro,pro) and each environmen
 9.  jenkins deploy helloworld application in kubernetes
 10. kubernetes pull docker images from dockerhub
 
-##### QA pipeline
-
-![Screenshot (354)](https://github.com/carolledevops/Helloworld/assets/138341326/8856a655-93d8-4882-8a86-693eb9edbca3)
-
-pipeline for qa will capable to take as input  docker image and perform differents test(load test, functional test etc)
-
-##### Production pipeline 
-
-![Screenshot (356)](https://github.com/carolledevops/Helloworld/assets/138341326/7717f3b5-320c-49ed-a1ba-402097ce1c24)
-
- - After validation by the whole team, the Ops manager can make the merger request in order to pass the modification on the main branch.
- - Deployment in production environment will then be activated and a notification is sent to slack
- - Once the application is deployed Kubernetes cluster, a end user will be able to connect and consume the application.
-
-Helloworld application
-![Screenshot (366)](https://github.com/carolledevops/Helloworld/assets/138341326/87df55b1-5882-4ab0-bf8e-6f2a37952488)
 
 
 
@@ -93,7 +77,8 @@ Helloworld application
 
 
 
-![Screenshot (370)](https://github.com/carolledevops/Helloworld/assets/138341326/4244d06c-5586-475a-8e76-424763e26a4c)
+
+
 
 
 
