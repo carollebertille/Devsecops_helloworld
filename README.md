@@ -89,25 +89,9 @@ Helloworld application
 
 
 
-list of development tasks that would be useful for enhancing a codebase or solution:
 
-##### Unit testing imlement unit test to verify the correctness 
-##### Monitoring tools can help you track the health, performance, and availability of your systems.Example Datadog, promethus and grafana
-##### Argo CD is an open-source continuous delivery (CD) tool designed to automate and manage the deployment of applications to Kubernetes clusters. It have many features
-- Rollbacks and Versioning
-- Multi-Environment Deployments
-- Application Sync
-- Integration with CI/CD
-- RBAC and Access Control
-- Web UI and CLI
-##### PagerDuty incident management and response platform. It provides real-time alerts, on-call scheduling, and incident response coordination.  some features 
-Integration with Monitoring and Communication Tools
-- On-Call Schedules
-- Incident Response Workflows
-##### Helm package manager for Kubernetes that simplifies the deployment and management of applications and services.
-Helm simplifies the management of Kubernetes deployments by providing a consistent and reusable approach. It enables developers and operators to package and distribute applications as charts, facilitating consistent and scalable deployments across different environments.
 
-##### github actions: GitHub Actions provides an intuitive and user-friendly interface, making it easy to get started with CI/CD without the need for additional infrastructure or configuration.
+
 
 ![Screenshot (370)](https://github.com/carolledevops/Helloworld/assets/138341326/4244d06c-5586-475a-8e76-424763e26a4c)
 
